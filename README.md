@@ -1,4 +1,4 @@
-# sagemaker_nbextensions-
+# sagemaker_nbextensions
 Lifecycle configuration to install the jupyter_contrib_nbextensions.
 
 Working lifecycle configuration script to install jupyter_contrib_nbextensions.
